@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Etiquetas físicas</title>
+</head>
+<body>
+
+    <fieldset>
+        <br>
+        <b>TEXTO EN NEGRITA</b><br><br>
+        
+        <i>TEXTO EN CURSIVA</i><br><br>
+        
+        <p>
+            Para obtener un listado de todas tus páginas Web en UNIX deberás escribir:<br>
+            <tt>ls *.htm *.html</tt>
+        </p>
+        
+        <p>Yo <s>CASI NUNCA</s> me equivoco</p>
+        
+        <p>Esto es texto normal, <big>este es grande</big> y <big><big>este es mayor</big></big></p>
+        
+        <p>Esto es texto normal, <small>este es pequeño</small> y <small><small>este es menor</small></small></p>
+        
+        <p>El 1<sup>er</sup> componente químico que estudiamos fue el agua = H<sub>2</sub>O</p>
+        
+        <u>TEXTO SUBRAYADO</u>
+        <br>
+    </fieldset>
+
+</body>
+</html>
